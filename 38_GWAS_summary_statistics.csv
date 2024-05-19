@@ -1,0 +1,39 @@
+﻿Phenotype,sample size,number of cases,number of controls,Type,number of SNPs on autosomes,Reference,Atlas ID,Download link
+Heart rate,"361,411",NA,NA,continuous,"10,534,620",Watanabe et al. (2019),3188,https://atlas.ctglab.nl/ukb2 sumstats/f.102.0.0 res.EUR.sumstats.MACfilt.txt.gz
+High density lipoprotein cholesterol,"188,577",NA,NA,continuous,"2,447,441",Willer et al. (2013),71,http://csg.sph.umich.edu/abecasis/public/lipids2013/jointGwasMc HDL.txt.gz
+Low density lipoprotein cholesterol,"188,577",NA,NA,continuous,"2,437,751",Willer et al. (2013),70,http://csg.sph.umich.edu/abecasis/public/lipids2013/jointGwasMc LDL.txt.gz
+Triglyceride cholesterol,"188,577",NA,NA,continuous,"2,439,432",Willer et al. (2013),72,http://csg.sph.umich.edu/abecasis/public/lipids2013/jointGwasMc TG.txt.gz
+Total cholesterol,"188,577",NA,NA,continuous,"2,446,981",Willer et al. (2013),73,http://csg.sph.umich.edu/abecasis/public/lipids2013/jointGwasMc TC.txt.gz
+Body mass index,"379,831",NA,NA,continuous,"10,589,580",Watanabe et al. (2019),3445,https://atlas.ctglab.nl/ukb2 sumstats/f.23104.0.0 res.EUR.sumstats.MACfilt.txt.gz
+Waist/hip ratio,"697,734",NA,NA,continuous,"27,375,541",Pulit et al. (2019),4077,https://zenodo.org/record/1251813/files/whr.giant ukbb.meta analysis.combined.23May2018.txt.gz?download=1
+Neuroticism,"380,506",NA,NA,continuous,"10,846,943",Nagel et al. (2018),3990,https://ctg.cncr.nl/documents/p1651/sumstats neuro sum ctg format.txt.gz
+Insomnia,"386,078",NA,NA,continuous,"10,599,054",Watanabe et al. (2019),3232,https://atlas.ctglab.nl/ukb2 sumstats/f.1200.0.0 res.EUR.sumstats.MACfilt.txt.gz
+Educational attainment,"766,345",NA,NA,continuous,"10,101,242",Lee et al. (2018),4066,https://www.dropbox.com/s/ho58e9jmytmpaf8/GWAS EA excl23andMe.txt?dl=1
+Alcohol intake frequency,"386,082",NA,NA,continuous,"10,599,054",Watanabe et al. (2019),3261,https://atlas.ctglab.nl/ukb2 sumstats/f.1558.0.0 res.EUR.sumstats.MACfilt.txt.gz
+Current tobacco smoking,"386,150",NA,NA,continuous,"10,599,054",Watanabe et al. (2019),3235,https://atlas.ctglab.nl/ukb2 sumstats/f.1239.0.0 res.EUR.sumstats.MACfilt.txt.gz
+Coronary artery disease (including angina),"340,799","76,014","264,785",binary,"9,024,593",Nelson et al. (2017),3925,http://www.cardiogramplusc4d.org/media/cardiogramplusc4d consortium/data downloads/UKBB.GWAS1KG.EXOME.CAD.SOFT.META.PublicRelease.300517.txt.gz
+Essential (primary) hypertension,"244,890","71,332","173,558",binary,"10,154,467",Watanabe et al. (2019),3691,https://atlas.ctglab.nl/ukb2 sumstats/41204 I10 logistic.EUR.sumstats.MACfilt.txt.gz
+Asthma,"385,822","44,301","341,521",binary,"10,599,054",Watanabe et al. (2019),3552,https://atlas.ctglab.nl/ukb2 sumstats/6152 8 logistic.EUR.sumstats.MACfilt.txt.gz
+Hypothyroidism,"244,890","13,043","231,847",binary,"10,153,073",Watanabe et al. (2019),3685,https://atlas.ctglab.nl/ukb2 sumstats/41204 E03 logistic.EUR.sumstats.MACfilt.txt.gz
+Rheumatoid arthritis ,"58,284","14,361","43,923",binary,"8,747,962",Okada et al. (2014),1203,https://grasp.nhlbi.nih.gov/downloads/ResultsOctober2016/Okada/RA GWASmeta European v2.txt.gz
+Type 2 diabetes,"659,256","62,832","596,424",binary,"5,053,015",Xue et al. (2018),4045,http://cnsgenomics.com/data/t2d/Xue et al T2D META Nat Commun 2018.gz
+Lupus,"10,995","4,036","6,959",binary,"8,929,425",Julià et al. (2018),4018,http://urr.cat/data/GWAS SLE summaryStats.zip
+Crohn’s disease,"20,883","5,956","14,927",binary,"11,002,658",Liu et al. (2015),68,ftp://ftp.sanger.ac.uk/pub/consortia/ibdgenetics/iibdgc trans ancestry filtered summary stats.tgz
+Ulcerative colitis,"27,432","6,968","20,464",binary,"11,113,952",Liu et al. (2015),69,ftp://ftp.sanger.ac.uk/pub/consortia/ibdgenetics/iibdgc trans ancestry filtered summary stats.tgz
+Depression,"500,199","170,756","329,443",binary,"8,483,301",Howard et al. (2019),4293,https://datashare.is.ed.ac.uk/bitstream/handle/10283/3203/PGC UKB depression genome wide.txt
+Autism spectrum disorder,"46,350","18,381","27,969",binary,"9,112,386",Grove et al. 2019,,https://www.med.unc.edu/pgc/download results/
+Bipolar disorder,"51,710","20,352","31,358",binary,"13,413,244",Stahl et al. 2019,,https://www.med.unc.edu/pgc/download results/
+Alzheimer’s disease,"455,258","71,880","383,378",binary,"13,367,299",Jansen et al. 2019,,https://ctg.cncr.nl/software/summary statistics
+Multiple sclerosis,"15,283","4,888","10,395",binary,"7,968,337",Andlauer et al. 2016,,https://owncloud.andlauer.net/index.php/s/64GkNUAHMoeG5oH
+Amyotrophic lateral sclerosis,"36,052","12,577","23,475",binary,"8,709,431",van Rheenen et al. 2016,,http://databrowser.projectmine.com/
+Schizophrenia,"105,318","40,675","64,643",binary,"8,064,799",Pardiñas et al. 2018,,https://www.med.unc.edu/pgc/download results/
+Attention deficit hyperactivity disorder,"225,534","38,691","186,843",binary,"6,774,224",Demontis et al. 2023,,https://ipsych.dk/en/research/downloads
+Panic disorder,"9,907","2,147","7,760",binary,"10,151,300",Forstner et al. 2021,,https://www.med.unc.edu/pgc/download results/
+Atrial Fibrillation,"1,030,836","60,620","970,216",binary,"33,891,655",Nielsen et al. 2018,4361,wget http://csg.sph.umich.edu/willer/public/afib2018/nielsen-thorolfsdottir-willer-NG2018-AFib-gwas-summary-statistics.tbl.gz -P Atrial-Fibrillation_Nielsen_2018
+Smoking Initiation ,"632,802",NA,NA,continuous,"11,802,365",Liu et al. 2019,4314,wget https://conservancy.umn.edu/bitstream/handle/11299/201564/SmokingInitiation.txt.gz
+Estimated Glomerular Filtration Rate,"765,348",NA,NA,continuous,"8,276,454",Wuttke et al. 2019,31152163,wget http://ckdgen.imbi.uni-freiburg.de/files/Wuttke2019/20171016_MW_eGFR_overall_ALL_nstud61.dbgap.txt.gz
+Sleep Duration ,"446,118",NA,NA,continuous,"14,661,601",Dashti et al. 2019,4272,http://sleepdisordergenetics.org/
+Sleep Chronotype ,"449,734",NA,NA,continuous,"11,977,111",Jones et al. 2019,4294,http://sleepdisordergenetics.org/
+Estimated bone mineral density ,"426,824",NA,NA,continuous,"13,753,401",Morris et al. 2019,4328,http://www.gefos.org/?q=content/data-release-2018
+Fractures,"426,795","53,184","373,611",continuous,"13,970,184",Morris et al. 2019,4329,http://www.gefos.org/?q=content/data-release-2018
+Intelligence ,"269,867",NA,NA,continuous,"9,295,118",Savage et al. 2018,3785,https://ctg.cncr.nl/software/summary statistics
