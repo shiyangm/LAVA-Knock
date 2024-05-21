@@ -20,8 +20,6 @@ devtools::install_github("shiyangm/LAVA-Knock")
 
 library(LAVAKnock)
 
-packageVersion('LAVAKnock') #'0.1'
-
 The current version is 0.1 (May 21, 2024).
 
 ## Usage
