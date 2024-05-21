@@ -14,9 +14,12 @@ R (recommended version 4.3.1)
 LAVAKnock depends on R packages SKAT, Matrix, MASS, SPAtest, CompQuadForm, irlba, matrixsampling, corpcor and GhostKnockoff. Make sure to install those packages before installing BIGKnock.
 
 ## Installation
-library(devtools) 
+library(devtools)
+
 devtools::install_github("shiyangm/LAVA-Knock")
+
 library(LAVAKnock)
+
 packageVersion('LAVAKnock') #'0.1'
 
 The current version is 0.1 (May 21, 2024).
