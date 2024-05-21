@@ -1,4 +1,4 @@
-[![R-CMD-check](https://github.com/Iuliana-Ionita-Laza/BIGKnock/workflows/R-CMD-check/badge.svg)](https://github.com/shiyangm/LAVA-Knock/actions)
+[![R-CMD-check](https://github.com/shiyangm/LAVA-Knock/workflows/R-CMD-check/badge.svg)](https://github.com/shiyangm/LAVA-Knock/actions)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 # LAVA-Knock 
@@ -21,12 +21,12 @@ devtools::install_github("shiyangm/LAVA-Knock")
 The current version is 0.1 (May 21, 2024).
 
 ## Usage
-Please see the LAVA-Knock <a href="https://github.com/shiyangm/LAVA-Knock/blob/master/docs/LAVAKnock_0.1.pdf"> **user manual** </a> for detailed usage of LAVA-Knock package. 
+Please see the LAVA-Knock <a href="https://github.com/shiyangm/LAVA-Knock/blob/master/LAVAKnock_0.1.pdf"> **user manual** </a> for detailed usage of LAVA-Knock package. 
 
 ## Contact
-If you have any questions about BIGKnock please contact
+If you have any questions about LAVA-Knock please contact
 
-- <mashiyang1991@sjtu.edu.cn>
+- <mashiyang1991@outlook.com>
 
 If you want to submit a issue concerning the software please do so using the **LAVA-Knock** [Github repository](https://github.com/shiyangm/LAVA-Knock/issues).
 
