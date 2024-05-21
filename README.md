@@ -15,8 +15,9 @@ LAVAKnock depends on R packages SKAT, Matrix, MASS, SPAtest, CompQuadForm, irlba
 
 ## Installation
 library(devtools) 
-
 devtools::install_github("shiyangm/LAVA-Knock")
+library(LAVAKnock)
+packageVersion('LAVAKnock') #'0.1'
 
 The current version is 0.1 (May 21, 2024).
 
